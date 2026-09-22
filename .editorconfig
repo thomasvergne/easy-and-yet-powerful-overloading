@@ -1,0 +1,8 @@
+[*.{v,tex}]
+indent_size = 2
+insert_spaces = true
+trim_trailing_whitespace = true
+end_of_line = lf
+charset = utf-8
+max_line_length = 80
+insert_final_newline = true
