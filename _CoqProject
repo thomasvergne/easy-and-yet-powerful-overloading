@@ -1,0 +1,21 @@
+-R meta-theory Overloading
+
+meta-theory/LangA/Maps.v
+meta-theory/LangA/Definitions.v
+meta-theory/LangA/Typing.v
+meta-theory/LangA/Proofs.v
+
+meta-theory/LangB/Maps.v
+meta-theory/LangB/Definitions.v
+meta-theory/LangB/Typing.v
+meta-theory/LangB/Proofs.v
+
+meta-theory/LangD/Maps.v
+meta-theory/LangD/Definitions.v
+meta-theory/LangD/Typing.v
+meta-theory/LangD/Proofs.v
+
+# meta-theory/LangC/Maps.v
+# meta-theory/LangC/Definitions.v
+# meta-theory/LangC/Typing.v
+# meta-theory/LangC/Proofs.v
