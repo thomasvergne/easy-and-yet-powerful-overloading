@@ -16,6 +16,8 @@ meta-theory/**/*.vok
 *.bbl
 *.blg
 *.out
+*.bst
+*.cls
 
 *.tex
 *.sty
